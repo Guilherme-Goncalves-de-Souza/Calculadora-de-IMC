@@ -7,7 +7,7 @@ Projeto desenvolvido durante o curso da B7Web.
 <br>
 
 ## Link do projeto:
-### <a src="google.com"> Acesse aqui! </a>
+### [Acesse aqui!](https://calculadora-j2a2e6jqw-guilherme-goncalves-de-souza.vercel.app/)
 
 <br>
 <hr>
